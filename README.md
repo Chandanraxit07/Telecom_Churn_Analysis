@@ -1,2 +1,2 @@
-# Telecom-churn-analysis
+# EDA- PROJECT
 Analysis the data from given data set
