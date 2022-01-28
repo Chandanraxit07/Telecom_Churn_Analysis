@@ -1,2 +1,2 @@
-# Chandan-kumar-Raxit-EDA-PROJECT
+# ChandanRaxit-EDA-Project
 Analysis the data from given data set
