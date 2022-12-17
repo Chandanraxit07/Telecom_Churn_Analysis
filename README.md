@@ -42,3 +42,12 @@ Customers with four or more customer service calls churn more than four times as
 Customers with high day minutes and evening minutes tend to churn at a higher rate than do the other customers.
 
 There is no obvious association of churn with the variables evening calls, night calls, international calls, night minutes, international minutes, account length.
+
+# RECCOMENDATIONS
+Improve network coverage churned state
+
+In international plan provid some discount plan to the customer
+
+Improve the voice mail quality or take feedback from the customer
+
+Improve the service of call center and take frequently feedback the customer regarding their issue and try to solve it as soon as possible
